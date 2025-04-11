@@ -1,0 +1,24 @@
+{
+  "name": "محفظتي - Mahfazhati",
+  "short_name": "محفظتي",
+  "description": "تطبيق ذكي لإدارة المحافظ الإلكترونية باللغة العربية",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#14B8A6",
+  "icons": [
+    {
+      "src": "/icons/wallet-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icons/wallet-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "portrait-primary"
+}
